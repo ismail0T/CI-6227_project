@@ -5,6 +5,16 @@ Instruction: Find relevant sources and read up on gradient boosting as a ML/DM t
 sources you used for preparation. You can use catalogs such as http://scholar.google.com/ to find relevant
 papers.
 
+## Ensemble Learning
+
+## Bagging
+
+## Boosting
+
+### Algorithm
+
+## CatBoost vs. Light GBM vs. XGBoost
+
 # Generate Attributes
 
 # Geberate Labels
